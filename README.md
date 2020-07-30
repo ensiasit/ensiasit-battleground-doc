@@ -24,6 +24,6 @@ The following table describes the rights (ie. CRUD) every user has on all resour
 
 ## Architecture
 
-![Architecture diagram](assets/architecture.png)
+![Architecture diagram](assets/architecture-technos.png)
 
 ## How to install
