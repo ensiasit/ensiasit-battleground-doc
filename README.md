@@ -20,8 +20,10 @@ The following table describes the rights (ie. CRUD) every user has on all resour
 | ----------- | ------- | ----------- | ----- | ------- | ---------- | -------------
 | Admin       | CRUD    | CRUD        | CRUD  | CRUD    | CRUD       | CRUD
 | Participant | -R--    | -R--        | ----  | -R--    | CR--       | CR--
-| Judge       | -R--    | ----        | ----  | -R--    | -RU-       | CRU-
+| Judge       | -R--    | ----        | ----  | -R--    | -RU-       | CR--
 
 ## Architecture
+
+![Architecture diagram](assets/architecture.png)
 
 ## How to install
